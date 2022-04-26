@@ -1,4 +1,4 @@
-Note that model output files are not uploaded to github due to limits on individual file size and on repository size in general. Run the code 'ProKoMo_rollingwindow_20xx' for the respective year. The remaining code files are included automatically.
+Run the code 'ProKoMo_rollingwindow_20xx' for the respective year. The remaining code files are included automatically.
 
 
 # Data-PreProcessing-for-Energy-System-Models
